@@ -3,7 +3,9 @@ Example of vulnerable contract and an attack contract that would drain all money
 
 ## Set up
 `truffle compile`
+
 `truffle migrate`
+
 `truffle console`
 
 ## truffle console commands
